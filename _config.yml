@@ -10,7 +10,7 @@ url: "" # the base hostname & protocol for your site
 
 # User setting
 owner: D. Ernest
-email: dev@postghost.co
+email: devon@postghost.co
 facebook_username:
 twitter_username:
 github_username:
@@ -19,7 +19,7 @@ address:
   - line:
   # Feel free to add more lines here 
 telephone: (608) 669-6975
-copyright: 2015 Post Ghost Production Company.  All rights reserved.
+copyright: 2016 Post Ghost Production Company.  All rights reserved.
 
 # API settings
 google_api_key:
