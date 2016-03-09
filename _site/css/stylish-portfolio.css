@@ -242,3 +242,13 @@ hr.small {
 footer {
     padding: 100px 0;
 }
+
+.transparentbackground   {
+    padding: 10px 50px 10px 50px;
+    display: inline-block;
+    background-color: rgba(0,0,0,0.71);
+}
+
+.transparentbackground h1, .transparentbackground h2 {
+    color: #fff;
+}
