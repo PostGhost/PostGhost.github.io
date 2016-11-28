@@ -29,11 +29,11 @@ body {
     font-weight: 700;
 }
 
-/* Alt color tables */
+/* Alt Color Tables */
 
 .TFtable{
     position: relative;
-	width:48%; 
+	width:50%; 
 	border-collapse:collapse; 
 }
 .TFtable td{ 
